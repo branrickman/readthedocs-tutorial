@@ -13,3 +13,8 @@ python:
 
 sphinx:
   fail_on_warning: true
+
+# Testing out file generation for offline access
+formats:
+  - pdf
+  - epub
