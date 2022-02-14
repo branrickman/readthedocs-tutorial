@@ -9,7 +9,7 @@ python:
   #install package
   install:
     -method: pip
-    path: .
+     path: .
 
 sphinx:
   fail_on_warning: true
